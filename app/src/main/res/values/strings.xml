@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">A-STEP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ajay">Ajay</string>
+    <string name="title_activity_home_page">Home_page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="m_c_a">M C A</string>
+
+    <string name="title_activity_image">Image</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_services">Services</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="slide_1_title">Hello Friends!</string>
+    <string name="slide_1_desc">Getting Information about the things was never soo easy...</string>
+
+    <string name="slide_2_title">Capture</string>
+    <string name="slide_2_desc">Capture the things you want to know about or choose from your gallery!</string>
+
+    <string name="slide_3_title">Realtime Information</string>
+    <string name="slide_3_desc">Get instant info in real-time!</string>
+
+    <string name="slide_4_title">Play the Game!!</string>
+    <string name="slide_4_desc">Hope you will love it!!!</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="one"><b>Address:</b>MI Road, Adjacent to BSNL Head Office, Jaipur, Rajasthan 302001</string>
+    <string name="lastlink">http://www.police.rajasthan.gov.in</string>
+    <string name="firstlink">http://www.jaipurpolice.rajasthan.gov.in</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="www.zeenews.com">http://www.zeenews.com/hindi</string>
+
+    <string name="www.timesofindia.indiatimes.com">http://www.timesofindia.indiatimes.com</string>
+    <string name="www.bhaskar.com">http://www.bhaskar.com</string>
+    <string name="www.epaper.patrika.com">http://www.epaper.patrika.com</string>
+    <string name="www.aajtak.intoday.in">http://www.aajtak.intoday.in</string>
+    <string name="pref_title_display_name">Name</string>
+    <string name="pref_default_display_name">Ajay kumar</string>
+
+    <string name="www.sevasamarpan.com">http://www.sevasamarpan.com</string>
+    <string name="www.bodh.org">http://www.bodh.org</string>
+    <string name="www.prayatn.org">http://www.prayatn.org</string>
+    <string name="www.surmansansthanglobal.org">http://www.surmansansthanglobal.org</string>
+    <string name="www.udaanwelfare.org">http://www.udaanwelfare.org</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_services.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\menu\\menu_services.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_page_drawer.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\menu\\activity_home_page_drawer.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_page.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\menu\\home_page.xml"
+    }
+]

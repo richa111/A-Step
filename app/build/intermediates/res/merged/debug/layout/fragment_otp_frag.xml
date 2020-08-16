@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.example.ajay.a_step.Otp_frag">
+
+
+    <EditText
+        android:id="@+id/editTxotp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="67dp"
+        android:layout_marginTop="98dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:ignore="LabelFor" />
+
+    <Button
+        android:id="@+id/btnresend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editTxotp"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="111dp"
+        android:onClick="re_Send"
+        android:text="Resend"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/btnverfy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/btnresend"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="82dp"
+        android:onClick="verify"
+        android:text="Verify"
+        tools:ignore="HardcodedText" />
+</RelativeLayout>

@@ -1,0 +1,102 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4d2eca67"
+    tools:context="com.example.ajay.a_step.Sign_up_frag">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        tools:ignore="ObsoleteLayoutParam">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editxtusernamsi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="user_name" />
+
+    <EditText
+        android:id="@+id/editxtemailidsign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editxtusernamsi"
+        android:layout_below="@+id/editxtusernamsi"
+        android:layout_marginTop="26dp"
+        android:ems="10"
+        android:hint="email_id"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/editxtmobnosign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editxtemailidsign"
+        android:layout_below="@+id/editxtemailidsign"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="mobile_no"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/editxtAddsig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editxtmobnosign"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="address"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/editxtpasssign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editxtAddsig"
+        android:layout_below="@+id/editxtAddsig"
+        android:layout_marginTop="29dp"
+        android:ems="10"
+        android:hint="password"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/editxtconfpasssig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editxtpasssign"
+        android:layout_below="@+id/editxtpasssign"
+        android:layout_marginTop="26dp"
+        android:ems="10"
+        android:hint="conform_pass"
+        android:inputType="textPassword"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/btnsubmitsign"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="sub_mit"
+        android:text="Submit"
+        android:layout_below="@+id/editxtconfpasssig"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        tools:ignore="HardcodedText" />
+
+
+
+    </LinearLayout>
+    </ScrollView>
+</android.support.v4.widget.DrawerLayout>

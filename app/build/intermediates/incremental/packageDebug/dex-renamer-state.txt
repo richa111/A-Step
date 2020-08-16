@@ -1,0 +1,7 @@
+#Fri Apr 26 09:07:38 IST 2019
+base.0=D\:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a21dc8eefbf6b13745bcaa29b4001ce6427415ed
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cf56173b0363a1cea1ade65e07bcc4c4671223bc\\classes.dex
+base.1=D\:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cf56173b0363a1cea1ade65e07bcc4c4671223bc
+file.0=D\:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a21dc8eefbf6b13745bcaa29b4001ce6427415ed\\classes.dex

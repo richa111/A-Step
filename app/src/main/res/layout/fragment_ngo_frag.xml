@@ -1,0 +1,286 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ajay.a_step.Ngo_frag"
+    android:background="@color/colorBackgrount">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card1"
+            android:background="@color/card"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="65dp"
+            android:backgroundTint="#fff"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:elevation="6dp">
+
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:src="@drawable/udaan"
+                android:layout_gravity="center_vertical"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:text="Address:: A 233 Vidhyut Nagar , Satya Marg , Ajmer Road,Jaipur,Raj 302021"
+                android:textColor="#000"
+                android:textSize="16dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="130dp"
+                android:id="@+id/txtudaan"
+                android:text="Call Us:0141-2355402 , 9785729987  "
+                android:textColor="#101dda"
+                android:textSize="16dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="200dp"
+                android:text="www.udaanwelfare.org"
+                android:autoLink="web"
+                android:linksClickable="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="16dp"
+                />
+
+
+
+        </android.support.v7.widget.CardView>
+
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card2"
+            android:layout_below="@+id/card1"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="40dp"
+            android:backgroundTint="#fff"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:elevation="6dp">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:src="@drawable/surman"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:text="Address: A-35 Balaji Appartment, Nemi Nagar, Vaishali Nagar, Jaipur - 302021 "
+                android:textColor="#000"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="120dp"
+                android:id="@+id/txtsurman"
+                android:text="Call Us: +(91)-141-3386539  +(91)-9828031708 , "
+                android:textColor="#0c24f9"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="200dp"
+                android:text="www.surmansansthanglobal.org"
+                android:linksClickable="true"
+                android:autoLink="web"
+                android:textColor="@color/colorAccent"
+                android:textSize="16dp" />
+
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card3"
+            android:layout_below="@+id/card2"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="40dp"
+            android:backgroundTint="#fff"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:elevation="6dp">
+
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:src="@drawable/prayatn"
+                android:layout_gravity="center_vertical"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:text="Address: 68/337, Sector 6, Pratap Nagar, Jaipur - 302033, Near jagruti park"
+                android:textColor="#000"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="120dp"
+                android:id="@+id/txtpryatan"
+                android:text="Call Us: +(91)-141-2792919  +(91)-9414028004    "
+                android:textColor="#101dd4"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="200dp"
+                android:text="www.prayatn.org"
+                android:autoLink="web"
+                android:textColor="@color/colorAccent"
+                android:linksClickable="true"
+                android:textSize="16dp" />
+
+
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:id="@+id/card4"
+            android:layout_below="@+id/card3"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="40dp"
+            android:backgroundTint="#fff"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:elevation="6dp">
+
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:src="@drawable/bodh"
+                android:layout_gravity="center_vertical"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:text="Address: A A-1, Bajaj Nagar, Jaipur - 302015, Anita Colony, Infront Of Gandhi Nagar Railway Station
+"
+                android:textColor="#000"
+                android:textSize="16dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="130dp"
+                android:id="@+id/txtbodh"
+                android:text="Call Us:  +(91)-141-2708460  +(91)-9784000821    "
+                android:textColor="#122be9"
+                android:textSize="16dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="200dp"
+                android:text="www.bodh.org"
+                android:linksClickable="true"
+                android:autoLink="web"
+                android:textColor="@color/colorAccent"
+                android:textSize="16dp" />
+
+
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card5"
+            android:layout_below="@+id/card3"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="40dp"
+            android:backgroundTint="#fff"
+            android:layout_marginBottom="100dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:elevation="6dp">
+
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:src="@drawable/seva"
+                android:layout_gravity="center_vertical"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:text="Address:Bhardwaj building, chaura rasta, Chaura Rasta, Jaipur - 302003"
+                android:textColor="#000"
+                android:textSize="16dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:id="@+id/txtseva"
+                android:layout_marginTop="130dp"
+                android:text="Call Us: +(91)-9252560000, 8104465923   "
+                android:textColor="#0838e4"
+                android:textSize="16dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="125dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="200dp"
+                android:text="www.sevasamarpan.com"
+                android:linksClickable="true"
+                android:autoLink="web"
+                android:textColor="@color/colorAccent"
+                android:textSize="16dp" />
+
+
+
+        </android.support.v7.widget.CardView>
+    </RelativeLayout>
+
+</ScrollView>
+

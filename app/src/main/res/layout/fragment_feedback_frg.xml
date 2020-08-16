@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ajay.a_step.Feedback_frg">
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:numStars="5"
+            android:stepSize="1.0" />
+
+
+
+
+
+    <TextView
+        android:id="@+id/textviewfeedid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttsubmitfeed"
+        android:layout_alignStart="@+id/buttsubmitfeed"
+        android:layout_marginBottom="13dp"
+        android:layout_marginStart="10dp"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/edittxtfeed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textMultiLine" />
+
+    <Button
+        android:id="@+id/buttsubmitfeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="30dp"
+        android:text="Submit" />
+
+    <Button
+        android:id="@+id/buttconclefeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="-49dp"
+        android:text="Cancel"
+        tools:ignore="HardcodedText" />
+
+
+</LinearLayout>

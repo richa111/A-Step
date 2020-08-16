@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\ec7b44d221c98bfa2efecb429ca7079b8b0a18cc\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\ec7b44d221c98bfa2efecb429ca7079b8b0a18cc\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\ec7b44d221c98bfa2efecb429ca7079b8b0a18cc\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\ec7b44d221c98bfa2efecb429ca7079b8b0a18cc\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\ec7b44d221c98bfa2efecb429ca7079b8b0a18cc\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\ec7b44d221c98bfa2efecb429ca7079b8b0a18cc\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\2862811e8f5fbdf2be6875d90b252a536d3d45c7\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "D:\\Rahul Murli project\\R.M Android\\A-STEP\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    }
+]
